@@ -45,7 +45,7 @@ input
         padding-top:20% ;
     }
     .space{
-        margin-top:15% ;
+        margin-top:25% ;
          
          
 
@@ -54,9 +54,7 @@ input
         width: 300px;
         margin-left:3% ;
     }
-    .all{
-        padding-top:2% ;
-    }
+    
 }
 @media screen and (max-width:1080px){
     html,body{
