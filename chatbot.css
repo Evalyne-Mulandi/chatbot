@@ -36,7 +36,8 @@ input
 @media (max-width:1080px){
     input{
         width: 300px;
-        transform: translateX(-30%)
+         margin-left:-30% ;
+          
         
     }
     .head{
@@ -47,7 +48,10 @@ input
     }
     #chatbot-dialog{
         width: 300px;
-        transform: translateX(-30%)
+        margin-left:-30% ;
+    }
+    .all{
+        padding-top:20% ;
     }
 }
 @media screen and (max-width:1080px){
