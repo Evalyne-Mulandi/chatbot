@@ -44,7 +44,7 @@ input
     h1{
         padding-top:20% ;
     }
-    .head{
+    .space{
         margin-top:15% ;
          
          
@@ -55,7 +55,7 @@ input
         margin-left:3% ;
     }
     .all{
-        padding-top:5% ;
+        padding-top:2% ;
     }
 }
 @media screen and (max-width:1080px){
