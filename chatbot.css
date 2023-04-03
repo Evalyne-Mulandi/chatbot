@@ -35,8 +35,8 @@ input
 }
 @media (max-width:1080px){
     input{
-        width: 270px;
-        transform: translateX(25%)
+        width: 300px;
+        transform: translateX(15%)
         
     }
     .head{
@@ -46,8 +46,8 @@ input
 
     }
     #chatbot-dialog{
-        width: 270px;
-        transform: translateX(25%)
+        width: 300px;
+        transform: translateX(20%)
     }
 }
 .head
