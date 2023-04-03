@@ -37,21 +37,25 @@ input
     input{
         width: 300px;
          margin-left:-2% ;
+
           
         
     }
+    h1{
+        padding-top:20% ;
+    }
     .head{
-        padding-top:1px ;
-        min-height:100%;
+        padding-top:15% ;
+         
          
 
     }
     #chatbot-dialog{
         width: 300px;
-        margin-left:-2% ;
+        margin-left:3% ;
     }
     .all{
-        padding-top:20% ;
+        padding-top:10% ;
     }
 }
 @media screen and (max-width:1080px){
